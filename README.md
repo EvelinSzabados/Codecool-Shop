@@ -25,7 +25,7 @@ Front end:
  - AJAX
  
  ### Live version
- <a href="https://stones-webshop.herokuapp.com/login">Click to checkout the project's live version</a>
+ <a href="https://stones-webshop.herokuapp.com">Click to checkout the project's live version</a>
  
 # Install
 
